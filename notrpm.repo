@@ -1,0 +1,7 @@
+[notrpm]
+name=NotRPM
+baseurl=https://getlemonade.org/notrpm
+enabled=1
+repo_gpgcheck=0
+type=rpm
+skip_if_unavailable=True
